@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kinaan/Desktop/Euler/largest_prime_number/src/largest_prime_number_factors.h
+bits/stdc++.h
+/home/kinaan/Desktop/Euler/largest_prime_number/src/bits/stdc++.h
+iostream
+-
+stdio.h
+-
+
+/home/kinaan/Desktop/Euler/largest_prime_number/src/main.cpp
+bits/stdc++.h
+/home/kinaan/Desktop/Euler/largest_prime_number/src/bits/stdc++.h
+iostream
+-
+stdio.h
+-
+largest_prime_number_factors.h
+/home/kinaan/Desktop/Euler/largest_prime_number/src/largest_prime_number_factors.h
+
